@@ -40,15 +40,15 @@ Foram utilizadas 9 tabelas do modelo relacional para filtragrem e análise de to
 da tabela olist_order_reviews_dataset. O objetivo de reunir todos os dados em uma tabela só, é justamente facilitar o aprendizado do modelo e aumentar
 a acurácia da IA utilizada.
 Inicialmente:
-olist_customers_dataset.csv
-olist_geolocation_dataset.csv
-olist_order_items_dataset.csv
-olist_order_payments_dataset.csv
-olist_order_reviews_dataset.csv
-olist_orders_dataset.csv
-olist_products_dataset.csv
-olist_sellers_dataset.csv
-product_category_name_translation.csv
+- olist_customers_dataset.csv
+- olist_geolocation_dataset.csv
+- olist_order_items_dataset.csv
+- olist_order_payments_dataset.csv
+- olist_order_reviews_dataset.csv
+- olist_orders_dataset.csv
+- olist_products_dataset.csv
+- olist_sellers_dataset.csv
+- product_category_name_translation.csv
 
 ## **B) Heurística 2 - Distância de Manhattan**
 A distância de Manhattan (“City Block” ou “Geometria do Táxi”) é um modelo geométrico em que a distância entre dois pontos é a soma das diferenças absolutas de suas coordenadas. Essa função retorna a distância da posição atual até a posição correta com base na métrica da Distância de Manhattan.

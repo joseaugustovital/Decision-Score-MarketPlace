@@ -18,9 +18,13 @@
  
  # Objetivo do modelo
  
-![image](https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1)
+ ## Árvore de Decisão
  
- Inicialmente um tabuleiro com 9 posições (3x3) é gerado com 8 números em posições aleatórias. O objetivo do jogador é utilizar o espaço vazio para movimentar as peças com determinado número de passos e obter a sequência numérica em ordem crescente de 1 até 8, e o vazio na ultima posição do tabuleiro. Cada movimentação é contabilizada como um passo.
+  O conceito utilizado para a resolução do problema foi com base na lógica de árvores de decisão. Dessa forma, cada condição encontrada pode levar a 
+ inúmeras possibilidades. Portanto o modelo utilizado usa parte do data-set para treino, e com base no padrão encontrado, retorna os atributos mais 
+ relevantes para a insatisfação dos clientes.
+ 
+![image](https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1)
  
  ![image](https://user-images.githubusercontent.com/75955255/123880070-e387d980-d90f-11eb-9c21-27207f97b57d.png)
  

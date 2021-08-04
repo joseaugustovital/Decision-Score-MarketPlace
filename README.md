@@ -16,7 +16,7 @@
  
  https://colab.research.google.com/drive/1LFk9HUKs-viPqtMErtP7wP46CuKbrXOu?usp=sharing
  
- # Objetivo do modelo
+ # Especificações do modelo
  
  ## Árvore de Decisão
  
@@ -34,11 +34,21 @@
  Os dados utilizados para aplicação do modelo são de um dataset real pertencente a um e-commerce que apresentava problemas em indentificar o que afetava a satisfação dos clientes devido ao grande volume de dados e pela complexidade na relação dos atributos.
  
  O conjunto de dados pode ser acessado por: https://www.kaggle.com/olistbr/brazilian-ecommerce
- 
- 
-# 1) Heurísticas
-## **A) Heurística 1 - Número de Peças Fora do Lugar**
-Método que utiliza a quantidade de posições erradas em relação ao goal, ou seja, conta quantas peças estão na posição errada quando comparado com o estado resolução do problema. Essa função retorna a quantidade de elementos estão fora da sua posição correta.
+
+# Tabelas
+Foram utilizadas 9 tabelas do modelo relacional para filtragrem e análise de todos os valores e atributos mais relevantes para a variável decision_score
+da tabela olist_order_reviews_dataset. O objetivo de reunir todos os dados em uma tabela só, é justamente facilitar o aprendizado do modelo e aumentar
+a acurácia da IA utilizada.
+Inicialmente:
+olist_customers_dataset.csv
+olist_geolocation_dataset.csv
+olist_order_items_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_orders_dataset.csv
+olist_products_dataset.csv
+olist_sellers_dataset.csv
+product_category_name_translation.csv
 
 ## **B) Heurística 2 - Distância de Manhattan**
 A distância de Manhattan (“City Block” ou “Geometria do Táxi”) é um modelo geométrico em que a distância entre dois pontos é a soma das diferenças absolutas de suas coordenadas. Essa função retorna a distância da posição atual até a posição correta com base na métrica da Distância de Manhattan.

@@ -18,7 +18,7 @@
  
  # Objetivo do modelo
  
-https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1
+![image](https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1)
  
  Inicialmente um tabuleiro com 9 posições (3x3) é gerado com 8 números em posições aleatórias. O objetivo do jogador é utilizar o espaço vazio para movimentar as peças com determinado número de passos e obter a sequência numérica em ordem crescente de 1 até 8, e o vazio na ultima posição do tabuleiro. Cada movimentação é contabilizada como um passo.
  

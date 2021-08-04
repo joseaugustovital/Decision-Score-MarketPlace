@@ -26,7 +26,7 @@
  
 ![image](https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1)
  
- ![image](https://user-images.githubusercontent.com/75955255/123880070-e387d980-d90f-11eb-9c21-27207f97b57d.png)
+ ![image](https://www.researchgate.net/profile/Cristiano-Torezzan/publication/298217297/figure/fig1/AS:419286158987270@1476977018644/Figura-1-EsquematizacEsquematizacEsquematizacao-de-uma-arvore-de-decisao-Fonte-Dos_Q320.jpg)
  
  # Mecanismos do Algoritmo
  

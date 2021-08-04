@@ -24,6 +24,8 @@
  inúmeras possibilidades. Portanto o modelo utilizado usa parte do data-set para treino, e com base no padrão encontrado, retorna os atributos mais 
  relevantes para a insatisfação dos clientes.
  
+ Exemplo:
+ 
 ![image](https://www.researchgate.net/profile/Cristiano-Torezzan/publication/298217297/figure/fig1/AS:419286158987270@1476977018644/Figura-1-EsquematizacEsquematizacEsquematizacao-de-uma-arvore-de-decisao-Fonte-Dos_Q320.jpg)
 ![image](https://i0.wp.com/www.analyticsvidhya.com/wp-content/uploads/2016/04/dt.png?resize=525%2C414&ssl=1)
  

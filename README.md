@@ -33,7 +33,7 @@
  
  # Análise de Dados
  
- Os dados utilizados para aplicação do modelo são de um dataset real pertencente a um e-commerce que apresentava problemas relacionados a satisfação dos clientes devido ao grande volume de dados e pela complexidade na relação dos atributos.
+ Os dados utilizados para aplicação do modelo são de um dataset real pertencente a um e-commerce que apresentava problemas relacionados a satisfação dos seus clientes. As dificuldades de identificar as razôes eram o grande volume de dados e a complexidade na correlação de muitos atributos.
  
  O conjunto de dados pode ser acessado por: https://www.kaggle.com/olistbr/brazilian-ecommerce
 

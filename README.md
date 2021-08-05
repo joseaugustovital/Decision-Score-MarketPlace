@@ -19,7 +19,8 @@
  https://colab.research.google.com/drive/1LFk9HUKs-viPqtMErtP7wP46CuKbrXOu?usp=sharing
  
  # Especificações do modelo
- 
+ Como entender a situação do e-commerce, sua logística e todos os seus fatores é um problema complexo, inicia-se o estudo identificando
+ que se trata de um problema descritivo. Sendo assim, uma das soluções mais apropriadas para problemas com essas caracteristicas é árvore de decisão.
  ## Árvore de Decisão
  
   O conceito utilizado para a resolução do problema foi com base na lógica de árvores de decisão. Dessa forma, cada condição encontrada pode levar a 

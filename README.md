@@ -6,9 +6,11 @@
  
  Autor: José Augusto Lajo Vieira Vital
  
- Orientador: Edson Takashi Matsubara
+ Professor: Edson Takashi Matsubara
  
- Estudo: Implementação de árvores de decisão para identificar possíveis problemas em um marketplace.
+ ## Inteligência Artificial 
+ 
+ Estudo: Manipulação de árvores de decisão para identificar possíveis problemas em um marketplace.
  
  Linguagem: Python
  
@@ -58,6 +60,12 @@ do modelo e tornar a tabela mais limpa. O uso de variáveis sem correlação com
 Após todo processo de análise dos dados, o dataset foi seperado em duas partes:
 - 30 % para teste do modelo
 - 70 % para treino do modelo
+
+## Bibliotecas dos modelos e funções/métricas 
+Scikit learn: https://scikit-learn.org/stable/
+
+# Teste
+As funções e métricas utilizadas, bem como a conclusão do estudo está no final do código.
 
 
 

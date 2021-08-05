@@ -50,27 +50,15 @@ Inicialmente:
 - olist_sellers_dataset.csv
 - product_category_name_translation.csv
 
-## **B) Heurística 2 - Distância de Manhattan**
-A distância de Manhattan (“City Block” ou “Geometria do Táxi”) é um modelo geométrico em que a distância entre dois pontos é a soma das diferenças absolutas de suas coordenadas. Essa função retorna a distância da posição atual até a posição correta com base na métrica da Distância de Manhattan.
+## Filtragem e Normalização
+Após o merge de todas as tabelas do dataset, os atributos menos relevantes para a variável decision_score foram removidos para facilitar o aprendizado
+do modelo e tornar a tabela mais limpa. O uso de variáveis sem correlação com nota dos clientes pode distorcer a saída do algoritmo.
 
-![image](https://user-images.githubusercontent.com/75955255/123881250-4f6b4180-d912-11eb-9587-4ac74065d742.png)
+# Aprendizado
+Após todo processo de análise dos dados, o dataset foi seperado em duas partes:
+- 30 % para teste do modelo
+- 70 % para treino do modelo
 
-# 2) Buscas 
-## **A) Hill Climbing**
-O método usa como parâmetro de resolução do puzze a função heurística (Heurística 1 ou 2) chamada de h(n).
-
-f(n) = h1(n)
-
-f(n) = h2(n)
-
-## **B) A-Star**
-O método usa como parâmetros de resolução do puzzle as funções h(n), e uma função g(n) que retorna o custo de determinado estado até o nó n.
-
-f(n) = h1(n) + g(n)
-
-f(n) = h2(n) + g(n)
-
-![image](https://user-images.githubusercontent.com/75955255/123882556-036dcc00-d915-11eb-81d8-727a5d6a6e6a.png)
 
 
 

@@ -58,7 +58,7 @@ do modelo e tornar a tabela mais limpa. O uso de variáveis sem correlação com
 
 # Aprendizado
 Após todo processo de análise dos dados, o dataset foi seperado em duas partes:
-- 30 % para teste do modelo
+- 30 % para teste do modelo (validação)
 - 70 % para treino do modelo
 
 ## Bibliotecas dos modelos e funções/métricas 
